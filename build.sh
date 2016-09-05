@@ -9,7 +9,7 @@
 pandoc naup.md -f markdown -t plain -s -o doc/naup.txt
 pandoc naup.md -f markdown -t plain -s --no-wrap -o doc/naup-nowrap.txt
 pandoc naup.md -f markdown -t rtf -s -o doc/naup.rtf
-pandoc naup.md -f markdown -t html5 -s -T "RTPS NAUP" -c style.css -o doc/naup.html
+pandoc naup.md -f markdown -t html5 -s -T "RTPS NAUP" -c "../style.css" -o doc/naup.html
 pandoc naup.md -f markdown -t docx -s -o doc/naup.docx
 pandoc naup.md -f markdown -t odt -s -o doc/naup.odt
 
