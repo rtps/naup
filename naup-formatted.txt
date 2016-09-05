@@ -12,7 +12,7 @@ I. This is a private Information System:
 	(a) All Rising Tide Professional Services ("RTPS") computer systems
 	or Information Systems ("IS" or "I.S.") and the data therein are
 	private property and provided for authorized, private use only.
-	(b) Access to RTP IS’s is restricted to authorized users only.
+	(b) Access to RTPS IS's is restricted to authorized users only.
 	Unauthorized access, use, or modification of any RTPS IS or of the
 	data contained therein, or in transit to or from any RTPS IS, is
 	strictly prohibited.
@@ -46,11 +46,11 @@ III. Acceptance of This Policy:
 		authorized manner.	
 	(b) If you do not agree to the terms of this Policy, you may not use
 	any RTPS IS and must immediately disconnect from, cease all access
-	to, and permanently erase all data retrieved from all RTPS IS’s.
+	to, and permanently erase all data retrieved from all RTPS IS's.
 	(c) The effective date of this Policy and your agreement is the date
 	you first attempt to access any RTPS IS.
 	(d) Additional policies, agreements, terms and conditions, or other
-	documents may apply to certain RTPS IS’s.
+	documents may apply to certain RTPS IS's.
 
 IV.  Monitoring:
 	(a) Any RTPS IS and any related or connected equipment shall be
@@ -105,7 +105,7 @@ V.  Misuse or Unauthorized Access:
 	represents a credible threat to the life of any person, any activity
 	or evidence of child pornography and/or depiction of minors in an
 	unlawful manner, or any evidence of certain felony crimes.
-	(f) RTPS IS’s include security measures to protect RTPS interests.
+	(f) RTPS IS's include security measures to protect RTPS interests.
 	Any attempts to bypass or reverse engineer these measures shall be
 	strictly forbidden.
 
@@ -126,7 +126,7 @@ VII.  Miscellanea:
 	acceptance of this NAUP and any other applicable agreements or
 	policies. No users have any expectation of privacy without a prior,
 	formal agreement. RTPS performs routine monitoring and interception
-	of communications. However, RTPS values its users’ privacy and will
+	of communications. However, RTPS values its users' privacy and will
 	make all practicable attempts to protect the data of its users. Any
 	security measures on any RTPS IS are present to protect the interests
 	of RTPS. Any attempts to bypass or reverse-engineer these measures is
@@ -156,7 +156,7 @@ XI.  Indemnification:
 	representatives and affiliates harmless from and against, and shall
 	promptly reimburse them for, any and all losses, claims, damages,
 	settlements, costs, and liabilities of any nature whatsoever
-	(including reasonable attorneys’ fees) to which any of them may
+	(including reasonable attorneys' fees) to which any of them may
 	become subject arising out of, based upon, as a result of, or in any
 	way connected with, your use of any RTPS Information System or any
 	breach of this or any applicable agreement or Policy. 
