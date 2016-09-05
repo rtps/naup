@@ -5,9 +5,9 @@ Version 1.1 (2016SEP05)
 **IMPORTANT:** Please read the following information carefully! You may not access any RTPS Information System (I.S.) without reading and accepting this Network Acceptable Use Policy.
 
 1. This is a private Information System:
-  * (a) All Rising Tide Professional Services ("RTPS") computer systems or Information Systems ("IS" or "I.S.") and the data therein are private property and provided for authorized, private use only.
-  * (b) Access to RTPS IS's is restricted to authorized users only. Unauthorized access, use, or modification of any RTPS IS or of the data contained therein, or in transit to or from any RTPS IS, is strictly prohibited.
-  * (c) The use of a password or other security measure(s) does not inherently or automatically establish permission and authorization to access a RTPS IS. Explicit permission must be granted by RTPS or its designated representative(s) prior to accessing any RTPS IS.
+  * a. All Rising Tide Professional Services ("RTPS") computer systems or Information Systems ("IS" or "I.S.") and the data therein are private property and provided for authorized, private use only.
+  * b. Access to RTPS IS's is restricted to authorized users only. Unauthorized access, use, or modification of any RTPS IS or of the data contained therein, or in transit to or from any RTPS IS, is strictly prohibited.
+  * c. The use of a password or other security measure(s) does not inherently or automatically establish permission and authorization to access a RTPS IS. Explicit permission must be granted by RTPS or its designated representative(s) prior to accessing any RTPS IS.
 
 2. Information Systems:
   * (a) For the purposes of this Policy and applicable agreements, the term Information System (IS) includes any of the following systems or devices or similar systems or devices: Desktop computer systems, notebook/laptop computer systems, mobile phones (or "smart phones"), tablet devices, appliances such as servers, and network equipment or devices such as routers, switches, access points, and network cabling. This list is not comprehensive and is provided only as an example guideline.
