@@ -1,5 +1,5 @@
 Rising Tide Professional Services, L.L.C.
-Network Acceptable Use Policy (“NAUP”)
+Network Acceptable Use Policy ("NAUP")
 	version 1.1 (2016SEP05)
 
 IMPORTANT: Please read the following information carefully! You may not
@@ -7,12 +7,12 @@ IMPORTANT: Please read the following information carefully! You may not
            accepting this Network Acceptable Use Policy.
 
 I. This is a private Information System:
-	(a) All Rising Tide Professional Services (“RTPS”) computer systems or Information Systems (“IS” or “I.S.”) and the data therein are private property and provided for authorized, private use only.
+	(a) All Rising Tide Professional Services ("RTPS") computer systems or Information Systems ("IS" or "I.S.") and the data therein are private property and provided for authorized, private use only.
 	(b) Access to RTP IS’s is restricted to authorized users only. Unauthorized access, use, or modification of any RTPS IS or of the data contained therein, or in transit to or from any RTPS IS, is strictly prohibited.
 	(c) The use of a password or other security measure(s) does not inherently or automatically establish permission and authorization to access a RTPS IS. Explicit permission must be granted by RTPS or its designated representative(s) prior to accessing any RTPS IS.
 
 II.  Information Systems:
-	(a) For the purposes of this Policy and applicable agreements, the term Information System (IS) includes any of the following systems or devices or similar systems or devices: Desktop computer systems, notebook/laptop computer systems, mobile phones (or “smart phones”), tablet devices, appliances such as servers, and network equipment or devices such as routers, switches, access points, and network cabling. This list is not comprehensive and is provided only as an example guideline.
+	(a) For the purposes of this Policy and applicable agreements, the term Information System (IS) includes any of the following systems or devices or similar systems or devices: Desktop computer systems, notebook/laptop computer systems, mobile phones (or "smart phones"), tablet devices, appliances such as servers, and network equipment or devices such as routers, switches, access points, and network cabling. This list is not comprehensive and is provided only as an example guideline.
 	(b) Any device, service, or means to access any portion of a RTPS Information System or the data contained therein shall be classified as a RTPS Information System for the purposes of this Policy.
 	(c) GENERALLY, an Information System includes any computer system or technology which may access the private data of RTPS in any capacity whatsoever.
 
@@ -23,7 +23,7 @@ III. Acceptance of This Policy:
 	(d) Additional policies, agreements, terms and conditions, or other documents may apply to certain RTPS IS’s.
 
 IV.  Monitoring:
-	(a) Any RTPS IS and any related or connected equipment shall be subject to routine or investigative monitoring by RTPS or its designated representative(s) where deemed appropriate solely by RTPS or its designated representative(s). GENERALLY, for the purposes of this Policy, “monitoring” includes the review or any other processing of automated or manual logging data from any IS, any system output, or interception and/or of data or communications, captured and/or performed within the bounds of applicable law.
+	(a) Any RTPS IS and any related or connected equipment shall be subject to routine or investigative monitoring by RTPS or its designated representative(s) where deemed appropriate solely by RTPS or its designated representative(s). GENERALLY, for the purposes of this Policy, "monitoring" includes the review or any other processing of automated or manual logging data from any IS, any system output, or interception and/or of data or communications, captured and/or performed within the bounds of applicable law.
 	(b) Monitoring of any RTPS IS MAY be for the purposes of administrative oversight; law enforcement, forensics, or investigative purposes; inquiries into alleged wrongdoing or misuse; and to ensure proper performance of any RTPS IS or procedures.
 	(c) If monitoring reveals possible misuse or criminal activity, notice of such may be provided to appropriate law enforcement officials, where necessary, or investigated by RTPS or its designated representative(s). 
 	(d) RTPS may conduct monitoring in any lawful manner whatsoever with no further notice provided to any users of any RTPS IS. 
@@ -58,7 +58,7 @@ XI.  Indemnification:
 	(a) You shall defend, indemnify, and hold RTPS and its representatives and affiliates harmless from and against, and shall promptly reimburse them for, any and all losses, claims, damages, settlements, costs, and liabilities of any nature whatsoever (including reasonable attorneys’ fees) to which any of them may become subject arising out of, based upon, as a result of, or in any way connected with, your use of any RTPS Information System or any breach of this or any applicable agreement or Policy. 
 
 XII.  No Warranty:
-	(a) All RTPS services, including any RTPS Information System, are provided on an “as is” and “as available” basis, without warranties of any kind. RTPS does not warrant that the services will be uninterrupted, error-free, or free of security threats or other harmful components. You waive all implied warranties. However, this section may be amended or superseded by a formal Service Level Agreement or similar document.
+	(a) All RTPS services, including any RTPS Information System, are provided on an "as is" and "as available" basis, without warranties of any kind. RTPS does not warrant that the services will be uninterrupted, error-free, or free of security threats or other harmful components. You waive all implied warranties. However, this section may be amended or superseded by a formal Service Level Agreement or similar document.
 	(b) You assume all responsibility related to the security, privacy, and confidentiality risks inherent in digital or computer communications and technology and RTPS does not make any assurances or warranties relating to such risks.
 	(c) No advice or information given by RTPS or its representatives or agents shall create a warranty in any capacity unless superseded by another formal agreement.
 

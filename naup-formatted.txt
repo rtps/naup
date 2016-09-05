@@ -1,7 +1,7 @@
    Rising Tide Professional Services, L.L.C.
    www.risingtide.services - 844-210-5910 - hello@risingtide.serviecs
 
-   Network Acceptable Use Policy (“NAUP”)
+   Network Acceptable Use Policy ("NAUP")
            version 1.1 (2016SEP05)
 
 IMPORTANT: Please read the following information carefully! You may not
@@ -9,8 +9,8 @@ IMPORTANT: Please read the following information carefully! You may not
            accepting this Network Acceptable Use Policy.
 
 I. This is a private Information System:
-	(a) All Rising Tide Professional Services (“RTPS”) computer systems
-	or Information Systems (“IS” or “I.S.”) and the data therein are
+	(a) All Rising Tide Professional Services ("RTPS") computer systems
+	or Information Systems ("IS" or "I.S.") and the data therein are
 	private property and provided for authorized, private use only.
 	(b) Access to RTP IS’s is restricted to authorized users only.
 	Unauthorized access, use, or modification of any RTPS IS or of the
@@ -25,7 +25,7 @@ II.  Information Systems:
 	(a) For the purposes of this Policy and applicable agreements, the
 	term Information System (IS) includes any of the following systems
 	or devices or similar systems or devices: Desktop computer systems,
-	notebook/laptop computer systems, mobile phones (or “smart phones”),
+	notebook/laptop computer systems, mobile phones (or "smart phones"),
 	tablet devices, appliances such as servers, and network equipment or
 	devices such as routers, switches, access points, and network
 	cabling. This list is not comprehensive and is provided only as an
@@ -57,7 +57,7 @@ IV.  Monitoring:
 	subject to routine or investigative monitoring by RTPS or its
 	designated representative(s) where deemed appropriate solely by RTPS
 	or its designated representative(s). GENERALLY, for the purposes of
-	this Policy, “monitoring” includes the review or any other processing
+	this Policy, "monitoring" includes the review or any other processing
 	of automated or manual logging data from any IS, any system output,
 	or interception and/or of data or communications, captured and/or
 	performed within the bounds of applicable law.
@@ -163,7 +163,7 @@ XI.  Indemnification:
 
 XII.  No Warranty:
 	(a) All RTPS services, including any RTPS Information System, are
-	provided on an “as is” and “as available” basis, without warranties
+	provided on an "as is" and "as available" basis, without warranties
 	of any kind. RTPS does not warrant that the services will be
 	uninterrupted, error-free, or free of security threats or other
 	harmful components. You waive all implied warranties. However, this
