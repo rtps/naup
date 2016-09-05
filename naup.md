@@ -1,5 +1,7 @@
-## Network Acceptable Use Policy
+![rtps-logo]
 #### Rising Tide Professional Services, L.L.C.
+
+## Network Acceptable Use Policy
 text revision version 1.1 (2016SEP05)
 
 **IMPORTANT:** Please read the following information carefully! You may not access any RTPS Information System (I.S.) without reading and accepting this Network Acceptable Use Policy.
@@ -95,3 +97,6 @@ text revision version 1.1 (2016SEP05)
 	* (c) No advice or information given by RTPS or its representatives or agents shall create a warranty in any capacity unless superseded by another formal agreement.
 
 13. Limitation of Liability: RTPS, its employees, agents, vendors, licensors, and other representatives are not liable for any costs or damages arising, either directly or indirectly, from your use of any RTPS Wi-Fi network, RTPS Information System, or the Internet.
+
+
+[rtps-logo]: https://bytebucket.org/rtps-lawsonb/rtps-naup/raw/master/logo_rtps_retro_155x45.png "Logo - RTPS: Rising Tide Professional Services, LLC"
