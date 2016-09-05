@@ -1,0 +1,64 @@
+## Network Acceptable Use Policy
+#### Rising Tide Professional Services, L.L.C.
+Version 1.1 (2016SEP05)
+
+**IMPORTANT:** Please read the following information carefully! You may not access any RTPS Information System (I.S.) without reading and accepting this Network Acceptable Use Policy.
+
+1. This is a private Information System:
+  * (a) All Rising Tide Professional Services ("RTPS") computer systems or Information Systems ("IS" or "I.S.") and the data therein are private property and provided for authorized, private use only.
+  * (b) Access to RTPS IS's is restricted to authorized users only. Unauthorized access, use, or modification of any RTPS IS or of the data contained therein, or in transit to or from any RTPS IS, is strictly prohibited.
+  * (c) The use of a password or other security measure(s) does not inherently or automatically establish permission and authorization to access a RTPS IS. Explicit permission must be granted by RTPS or its designated representative(s) prior to accessing any RTPS IS.
+
+2. Information Systems:
+  * (a) For the purposes of this Policy and applicable agreements, the term Information System (IS) includes any of the following systems or devices or similar systems or devices: Desktop computer systems, notebook/laptop computer systems, mobile phones (or "smart phones"), tablet devices, appliances such as servers, and network equipment or devices such as routers, switches, access points, and network cabling. This list is not comprehensive and is provided only as an example guideline.
+	* (b) Any device, service, or means to access any portion of a RTPS Information System or the data contained therein shall be classified as a RTPS Information System for the purposes of this Policy.
+	* (c) GENERALLY, an Information System includes any computer system or technology which may access the private data of RTPS in any capacity whatsoever.
+
+3. Acceptance of This Policy:
+	* (a) By accessing any RTPS IS in any manner you represent that: 1. You have read, understand, and agree to the terms of this Policy, 2. You are have been explicitly authorized to access the particular IS by RTPS or its designated representative(s), AND 3. You are accessing the particular IS under good faith in a lawful, authorized manner.
+	* (b) If you do not agree to the terms of this Policy, you may not use any RTPS IS and must immediately disconnect from, cease all access to, and permanently erase all data retrieved from all RTPS IS's.
+	* (c) The effective date of this Policy and your agreement is the date you first attempt to access any RTPS IS.
+  * (d) Additional policies, agreements, terms and conditions, or other documents may apply to certain RTPS IS's.
+
+4. Monitoring:
+	* (a) Any RTPS IS and any related or connected equipment shall be subject to routine or investigative monitoring by RTPS or its designated representative(s) where deemed appropriate solely by RTPS or its designated representative(s). GENERALLY, for the purposes of this Policy, "monitoring" includes the review or any other processing of automated or manual logging data from any IS, any system output, or interception and/or of data or communications, captured and/or performed within the bounds of applicable law.
+	* (b) Monitoring of any RTPS IS MAY be for the purposes of administrative oversight; law enforcement, forensics, or investigative purposes; inquiries into alleged wrongdoing or misuse; and to ensure proper performance of any RTPS IS or procedures.
+	* (c) If monitoring reveals possible misuse or criminal activity, notice of such may be provided to appropriate law enforcement officials, where necessary, or investigated by RTPS or its designated representative(s).
+	* (d) RTPS may conduct monitoring in any lawful manner whatsoever with no further notice provided to any users of any RTPS IS.
+	* (e) ACCORDINGLY, THERE SHALL BE NO EXPECTATION OF PRIVACY WHILE ACCESSING OR USING ANY RTPS IS except where required by applicable law or provided as a courtesy to RTPS IS users. The use of a password or any other security or privacy measure, including encryption where allowed, DOES NOT ESTABLISH ANY EXPECTATION OF PRIVACY.
+	* (f) This section may be superseded or amended by any applicable contractual document or formal agreement between RTPS, including its designated representative(s), and another party.
+	* (g) RTPS will make all reasonable attempts, where practicable, to protect the data and information of the users of any RTPS IS. Certain data or information may be protected by law and not applicable to monitoring, interception, or decryption.
+
+5. Misuse or Unauthorized Access:
+	* (a) UNAUTHORIZED ACCESS SHALL BE STRICTLY PROHITED UNDER PENALTY OF LAW.
+	* (b) RTPS MAY, where appropriate, make notification to law enforcement for investigation.
+	* (c) RTPS MAY, where appropriate, deny, limit, or otherwise place any restrictions or sanctions on users found to have been misusing any RTPS IS at the sole discretion of RTPS or its designated representative(s). RTPS shall not be restrained in any manner, except where prohibited by applicable law, as to the restriction or sanction of users found in violation of this or any applicable policy. GENERALLY, that is, RTPS shall be free to exercise its rights to place severe limits on use of any RTPS IS or deny use altogether.
+	* (d) RTPS SHALL MAINTAIN A POLICY OF PROSECUTING ALL OFFENDERS FOUND TO HAVE BEEN MISUSING OR ACCESSING ANY RTPS IS WITHOUT AUTHORIZATION TO THE FULLEST EXTENT PROVIDED BY LAW where appropriate.
+	* (e) RTPS SHALL REPORT TO LAW ENFORCEMENT IMMEDIATELY UPON DISCOVERY, or as soon as practicable and allowed by law, any activity which represents a credible threat to the life of any person, any activity or evidence of child pornography and/or depiction of minors in an unlawful manner, or any evidence of certain felony crimes.
+	* (f) RTPS IS's include security measures to protect RTPS interests. Any attempts to bypass or reverse engineer these measures shall be strictly forbidden.
+
+6. Availability:
+	* (a) RTPS makes no representation as to the guaranteed or expected availability of any RTPS IS except where covered by an existing, valid Service Level Agreement or other similar contractual document. GENERALLY, THAT IS, THERE IS NO GUARANTEE ANY RTPS OR DATA THEREIN IS SHALL BE AVAILABLE.
+	* (b) RTPS SHALL NOT BE HELD LIABLE FOR ANY DAMAGES OR LOSSES as a result of the unavailability of any RTPS IS or the data therein. GENERALLY, where appropriate and authorized, that is, the user shall be solely liable for backing up any important data which belongs to the user.
+
+7. Miscellanea:
+	* Any RTPS IS is property of RTPS and provided for use only by authorized users. By accessing any RTPS IS you are expressing your acceptance of this NAUP and any other applicable agreements or policies. No users have any expectation of privacy without a prior, formal agreement. RTPS performs routine monitoring and interception of communications. However, RTPS values its users' privacy and will make all practicable attempts to protect the data of its users. Any security measures on any RTPS IS are present to protect the interests of RTPS. Any attempts to bypass or reverse-engineer these measures is strictly prohibited and will be investigated thoroughly.
+
+8. BY CONTINUING TO ACCESS THIS I.S., YOU ARE EXPRESSING YOUR AGREEMENT TO THE POLICY OUTLINED IN THIS DOCUMENT AND ANY OTHER APPLICABLE AGREEMENTS AND POLICIES. IF YOU DO NOT AGREE WITH ANY OF THESE POLICIES OR AGREEMENTS WHICH APPLY, YOU SHALL IMMEDIATELY COMPLETELY DISCONNECT AND DISCONTINUE ANY FURTHER USE WHATSOEVER OF ANY RTPS IS OR ITS CONNECTED SYSTEMS. No further notice may be provided beyond this point.
+
+9. Termination:
+	* (a) RTPS MAY, at its sole discretion or the discretion of its designated representative(s), terminate this Policy without notice and for any reason.
+
+10. Modifications:
+	* (a) RTPS MAY, at its sole discretion or the discretion of its designated representative(s), modify the terms and conditions of this Policy at any time. Such modifications shall be binding and effective upon release of the updated Policy.
+
+11. Indemnification:
+	* (a) You shall defend, indemnify, and hold RTPS and its representatives and affiliates harmless from and against, and shall promptly reimburse them for, any and all losses, claims, damages, settlements, costs, and liabilities of any nature whatsoever (including reasonable attorneys' fees) to which any of them may become subject arising out of, based upon, as a result of, or in any way connected with, your use of any RTPS Information System or any breach of this or any applicable agreement or Policy.
+
+12. No Warranty:
+	* (a) All RTPS services, including any RTPS Information System, are provided on an "as is" and "as available" basis, without warranties of any kind. RTPS does not warrant that the services will be uninterrupted, error-free, or free of security threats or other harmful components. You waive all implied warranties. However, this section may be amended or superseded by a formal Service Level Agreement or similar document.
+	* (b) You assume all responsibility related to the security, privacy, and confidentiality risks inherent in digital or computer communications and technology and RTPS does not make any assurances or warranties relating to such risks.
+	* (c) No advice or information given by RTPS or its representatives or agents shall create a warranty in any capacity unless superseded by another formal agreement.
+
+13. Limitation of Liability:
+	* (a) RTPS, its employees, agents, vendors, licensors, and other representatives are not liable for any costs or damages arising, either directly or indirectly, from your use of any RTPS Wi-Fi network, RTPS Information System, or the Internet.
