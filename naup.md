@@ -5,20 +5,20 @@ Version 1.1 (2016SEP05)
 **IMPORTANT:** Please read the following information carefully! You may not access any RTPS Information System (I.S.) without reading and accepting this Network Acceptable Use Policy.
 
 1. This is a private Information System:
-  * a. All Rising Tide Professional Services ("RTPS") computer systems or Information Systems ("IS" or "I.S.") and the data therein are private property and provided for authorized, private use only.
-  * b. Access to RTPS IS's is restricted to authorized users only. Unauthorized access, use, or modification of any RTPS IS or of the data contained therein, or in transit to or from any RTPS IS, is strictly prohibited.
-  * c. The use of a password or other security measure(s) does not inherently or automatically establish permission and authorization to access a RTPS IS. Explicit permission must be granted by RTPS or its designated representative(s) prior to accessing any RTPS IS.
+  - a. All Rising Tide Professional Services ("RTPS") computer systems or Information Systems ("IS" or "I.S.") and the data therein are private property and provided for authorized, private use only.
+  - b. Access to RTPS IS's is restricted to authorized users only. Unauthorized access, use, or modification of any RTPS IS or of the data contained therein, or in transit to or from any RTPS IS, is strictly prohibited.
+  - c. The use of a password or other security measure(s) does not inherently or automatically establish permission and authorization to access a RTPS IS. Explicit permission must be granted by RTPS or its designated representative(s) prior to accessing any RTPS IS.
 
 2. Information Systems:
-  * (a) For the purposes of this Policy and applicable agreements, the term Information System (IS) includes any of the following systems or devices or similar systems or devices: Desktop computer systems, notebook/laptop computer systems, mobile phones (or "smart phones"), tablet devices, appliances such as servers, and network equipment or devices such as routers, switches, access points, and network cabling. This list is not comprehensive and is provided only as an example guideline.
-  * (b) Any device, service, or means to access any portion of a RTPS Information System or the data contained therein shall be classified as a RTPS Information System for the purposes of this Policy.
-  * (c) GENERALLY, an Information System includes any computer system or technology which may access the private data of RTPS in any capacity whatsoever.
+  - a. For the purposes of this Policy and applicable agreements, the term Information System (IS) includes any of the following systems or devices or similar systems or devices: Desktop computer systems, notebook/laptop computer systems, mobile phones (or "smart phones"), tablet devices, appliances such as servers, and network equipment or devices such as routers, switches, access points, and network cabling. This list is not comprehensive and is provided only as an example guideline.
+  - b. Any device, service, or means to access any portion of a RTPS Information System or the data contained therein shall be classified as a RTPS Information System for the purposes of this Policy.
+  - c. GENERALLY, an Information System includes any computer system or technology which may access the private data of RTPS in any capacity whatsoever.
 
 3. Acceptance of This Policy:
-  * (a) By accessing any RTPS IS in any manner you represent that: 1. You have read, understand, and agree to the terms of this Policy, 2. You are have been explicitly authorized to access the particular IS by RTPS or its designated representative(s), AND 3. You are accessing the particular IS under good faith in a lawful, authorized manner.
-  * (b) If you do not agree to the terms of this Policy, you may not use any RTPS IS and must immediately disconnect from, cease all access to, and permanently erase all data retrieved from all RTPS IS's.
-  * (c) The effective date of this Policy and your agreement is the date you first attempt to access any RTPS IS.
-  * (d) Additional policies, agreements, terms and conditions, or other documents may apply to certain RTPS IS's.
+ - a. By accessing any RTPS IS in any manner you represent that: 1. You have read, understand, and agree to the terms of this Policy, 2. You are have been explicitly authorized to access the particular IS by RTPS or its designated representative(s), AND 3. You are accessing the particular IS under good faith in a lawful, authorized manner.
+ - b. If you do not agree to the terms of this Policy, you may not use any RTPS IS and must immediately disconnect from, cease all access to, and permanently erase all data retrieved from all RTPS IS's.
+ - c. The effective date of this Policy and your agreement is the date you first attempt to access any RTPS IS.
+ - d. Additional policies, agreements, terms and conditions, or other documents may apply to certain RTPS IS's.
 
 4. Monitoring:
   * (a) Any RTPS IS and any related or connected equipment shall be subject to routine or investigative monitoring by RTPS or its designated representative(s) where deemed appropriate solely by RTPS or its designated representative(s). GENERALLY, for the purposes of this Policy, "monitoring" includes the review or any other processing of automated or manual logging data from any IS, any system output, or interception and/or of data or communications, captured and/or performed within the bounds of applicable law.
